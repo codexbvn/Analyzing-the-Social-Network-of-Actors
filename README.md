@@ -53,3 +53,7 @@ We identified actor partnerships based on the movies they have worked together i
 This project allowed us to gain insights into the content distribution on Netflix, identify popular directors and actors, and analyze actor relationships within the Netflix dataset's movies and TV shows.
 
 (Note: The code snippets have been omitted in this .md file for readability. To view the code, refer to the original notebook or script.)
+
+
+
+
